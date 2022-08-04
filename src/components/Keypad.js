@@ -4,7 +4,6 @@ import React from "react";
 function Keypad(){
     function handleChange(){
         console.log ("Entering password...")
-        
     }
     return(
         <div>
@@ -13,6 +12,4 @@ function Keypad(){
             </div>
     )
 }
-
-
 export default Keypad;

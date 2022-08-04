@@ -5,7 +5,6 @@ function EyesOnMe(){
   function handleFocus(){
     console.log("Good!")
   }
-
   function handleBlur(){
     console.log("Hey! Eyes on me!")
   }
@@ -15,7 +14,6 @@ function EyesOnMe(){
         Eyes on me
       </button>
     </div>
-
   )
 }
 
